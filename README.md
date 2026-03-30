@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi !👋
+I'm Aron
+🎓 Btech CSE with specialisation Gaming Technology | 🗓️ Year: 1st Year
 
 <!--
 **aroncodes1101/aroncodes1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
